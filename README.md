@@ -1,4 +1,4 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+# Ex.No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
